@@ -1,0 +1,12 @@
+created github repo 
+created local repo in directory
+copy NUL index.html ... etc to make files
+git init 
+git remote add origin https://github.com/smilingKnite/basic_repo.git
+git add --all
+git commit -m "basicRepoStart"
+copy NUL basicRepo.txt
+copy NUL new.html
+git add --all
+git commit -m "some more changes"
+git push
